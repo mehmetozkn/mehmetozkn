@@ -1,7 +1,8 @@
 # Hi there! I'm Mehmet Özkan 👋
 
 ### 📱 Full-Stack iOS Software Engineer 
-I specialize in building end-to-end mobile ecosystems. My focus lies in creating seamless **SwiftUI** and **UIKit** experiences backed by robust, scalable **Backend** architectures. I am deeply interested in system design and distributed systems..
+I specialize in building end-to-end mobile ecosystems. My focus lies in creating seamless **SwiftUI** and **UIKit** experiences backed by robust, scalable **Backend** architectures.
+I am also interested in System Design, Site Reliability Engineering (SRE), and distributed systems, and I actively research and learn about these areas.
 
 ---
 
@@ -12,7 +13,7 @@ A sophisticated application featuring a complex backend architecture and high-pe
 * **App Store:** [Download Here](https://apps.apple.com/tr/app/belagat/id6757314550?l=tr)
 * **iOS Stack:** SwiftUI (iOS 16+), Unit Testing, UI Testing.
 * **Backend Stack:** Kotlin, Spring Boot 3.2.2, Docker.
-* **Infrastructure:** Cloud(Render), MongoDB, Redis, Swagger UI.
+* **Infrastructure:** Cloud(Render), MongoDB, Redis.
 
 ### 🎮 Oyunbaz Plus
 A dynamic social platform designed for seamless user interaction and real-time data sync.
