@@ -41,5 +41,5 @@ I am also interested in **System Design, Site Reliability, and Distributed Syste
 ---
 
 ## 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/mehmetozkan](https://linkedin.com/in/mehmetozkan)
+* **LinkedIn:** [linkedin.com/in/mehmetozkan](https://www.linkedin.com/in/mehmet%C3%B6zkan/)
 * **Email:** [mehmet.trozkan@gmail.com]
