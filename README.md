@@ -1,9 +1,7 @@
 # Hi there! I'm Mehmet Özkan 👋
 
 ### 📱 Full-Stack iOS Software Engineer 
-I specialize in building end-to-end mobile ecosystems. My focus lies in creating seamless **SwiftUI** and **UIKit** experiences backed by robust, scalable **Backend** architectures.
-
-I am also interested in **System Design, Site Reliability, and Distributed Systems** and I actively research and learn about these areas.
+I specialize in building end-to-end mobile ecosystems. My focus lies in creating seamless mobile experiences backed by robust, scalable Backend architectures.
 
 ---
 
@@ -33,12 +31,22 @@ I am also interested in **System Design, Site Reliability, and Distributed Syste
 | Domain | Technologies |
 | :--- | :--- |
 | **Mobile** | SwiftUI, UIKit, Unit & UI Testing, CloudKit, Modular Architectures |
-| **Backend** | Kotlin, Spring Boot, Java |
+| **Backend** | Kotlin, Java, Spring Boot |
 | **Architecture & Design** | System Design, Clean Architecture, RESTful API Design, Design Patterns |
-| **Database** | MongoDB, Redis, Firestore, |
+| **Database** | MongoDB, Redis, Firestore |
 | **DevOps & CI/CD** | Docker, Docker Compose, GitHub Actions |
 
 ---
+
+## 🧐 Interested areas
+* **Microservices ve Monolith**
+* **System Design**
+* **Distributed System**
+* **API Gateway**
+* **Message Queues**
+* **Logging & Monitoring**
+* **Domain-Driven Design and Event-Driver Design**
+* **Database Strategies**
 
 ## 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/mehmetozkan](https://www.linkedin.com/in/mehmet%C3%B6zkan/)
